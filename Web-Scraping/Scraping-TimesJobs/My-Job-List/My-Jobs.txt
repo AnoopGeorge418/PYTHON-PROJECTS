@@ -1,0 +1,47 @@
+Job 1
+----------------------------------------
+
+Company Name: RedLotus
+Required Skills: 
+datascientist,statisticalmodeling,datavisualization
+
+
+More Info: https://www.timesjobs.com/job-detail/data-scientist-redlotus-mumbai-0-to-3-yrs-jobid-M4B7k__SLASH__WkLORzpSvf__PLUS__uAgZw==&source=srp
+----------------------------------------
+
+Job 2
+----------------------------------------
+
+Company Name: Sigmoid
+Required Skills: 
+
+stronglearningacumen|teamplayer|datainterpretation|problemsolver|technologylover,algorithms,dataextraction,java,linux,bigdata,san,python,machinelearning,informationtechnology
+
+
+More Info: https://www.timesjobs.com/job-detail/data-scientist-sigmoid-kharagpur-bengaluru-bangalore-0-to-3-yrs-jobid-JYILces3__SLASH__Z1zpSvf__PLUS__uAgZw==&source=srp
+----------------------------------------
+
+Job 3
+----------------------------------------
+
+Company Name: Cellworks
+Required Skills: 
+
+algorithms,python,datamining,machinelearning,nosql,d3.js,java,datastructures,mysql
+
+
+More Info: https://www.timesjobs.com/job-detail/data-scientist-cellworks-0-to-3-yrs-jobid-gKH6mN3PiIZzpSvf__PLUS__uAgZw==&source=srp
+----------------------------------------
+
+Job 4
+----------------------------------------
+
+Company Name: autogrid india pvt ltd
+Required Skills: 
+
+c,java,digitization,datastructures,press,bigdata,python,ubuntu,eclipse,edp,softwareimplementation,algorithms,storage,hadoop,c,microsoftazure,windows,managementsystems
+
+
+More Info: https://www.timesjobs.com/job-detail/senior-data-scientist-optimization-autogrid-india-pvt-ltd-0-to-3-yrs-jobid-Ytc1c8jhvQZzpSvf__PLUS__uAgZw==&source=srp
+----------------------------------------
+
