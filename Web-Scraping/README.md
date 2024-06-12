@@ -1,6 +1,6 @@
 # Python Projects
 
-Welcome to the **Python Projects** repository! This repository contains various Python projects demonstrating different concepts and applications in Python.
+Welcome to the **Python Projects** repository! This repository contains various Python projects demonstrating different concepts and applications in Python. 
 
 ## Table of Contents
 
