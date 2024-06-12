@@ -5,7 +5,7 @@ with open('././index.html', 'r') as file:
     
     # fetching all the contents
     soup = BeautifulSoup(contents, 'lxml')
-    
+     
     # getting all the course names and its prices.
     course_cards = soup.find_all('div', class_ = 'card')
     for card in course_cards:

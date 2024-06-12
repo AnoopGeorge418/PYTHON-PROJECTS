@@ -9,7 +9,7 @@
 
 usernames = ['luffy admin', 'zoro admin', 'sanji', 'jimbei', 'brook']
 for user in usernames:
-    print(f'Welcome back {user}')
+    print(f'Welcome back {user}') 
     if 'admin' in user:
         print('Hello admin would u like to see the report status')
     else:
