@@ -1,5 +1,5 @@
 import os
-import requests
+import requests 
 import csv
 from bs4 import BeautifulSoup
 
