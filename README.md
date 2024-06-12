@@ -1,5 +1,5 @@
 # Python projects using sqlite3, mysql, mongodb, beautifulsoup, scrapy, pandas, numpy, matplotlib, seaborn, plotly, bokeh.
-
+ 
 # Python Projects
 
 Welcome to the **Python Projects** repository! This repository contains various Python projects demonstrating different concepts and applications in Python.
