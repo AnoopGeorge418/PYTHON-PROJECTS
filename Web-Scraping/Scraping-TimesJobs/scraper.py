@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 URL = 'https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&searchTextSrc=&searchTextText=&txtKeywords=data+Scientist&txtLocation=&cboWorkExp1=0'
 SCRAPER_DIR = input('Enter Folder name to store job details: ')
 
-# Fetch the HTML content from the URL
+# Fetch the HTML content from the URL 
 def fetch_content(url):
     response = requests.get(url)
     return response.text
