@@ -1,5 +1,5 @@
 <div align=center margin= auto> 
-  <img src="image/Sample Output.png"  width=80%>
+  <img src="Python-Projects/Alien-Invasion/images/Sample Output.png"  width=80%>
 </div>
 
 # 👽 Alien Invasion
@@ -34,7 +34,7 @@ loses a ship. If the player loses three ships, the game ends.
 ### Cloning the Repository
 
 ```
-$ git clone https://github.com/bryanlds/Alien-Invasion.git
+$ git clone https://github.com/AnoopGeorge418/Python-Projects/tree/main/Python-Projects/Alien-Invasion
 
 $ cd Alien-Invasion
 ```
