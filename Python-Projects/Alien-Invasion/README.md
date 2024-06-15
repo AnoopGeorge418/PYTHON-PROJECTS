@@ -1,5 +1,5 @@
 <div align=center margin= auto> 
-  <img src="image/Sample Output.png"  width=80%>
+  <img src="images/Sample_Output.bmp"  width=80%>
 </div>
 
 # 👽 Alien Invasion
