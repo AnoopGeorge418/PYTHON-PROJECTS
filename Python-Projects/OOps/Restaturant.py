@@ -50,11 +50,11 @@ print('\n')
 # make sure it was reset to 0.
 
 class users:
-    def __init__(self, first_name, last_name, password, login_attempts):
+    def __init__(self, first_name, last_name, password):
         self.f_name = first_name
         self.l_name = last_name
         self.psw = password
-        self.login_attempts = login_attempts
+        self.login_attempts = 0
         
     def describe_user(self):
         print(f'First name: {self.f_name}')
@@ -66,15 +66,20 @@ class users:
         print(f'Hello {full_name}, welcome back... Please enter password to continue.')
         
     def increment_login_attempts(self):
-        ...
+        self.login_attempts += 1
         
     def reset_login_attempts(self):
-        ...
+        self.login_attempts = 0
         
 user1 = users('Monkey D ', 'Luffy', 'Meat')
 user2 = users('Roranoa ', 'Zoro', 'Three sword style')
 
-print(user1.greet_user())
-print(user1.describe_user())
-print(user1.greet_user())
-print(user2.describe_user())
+user1.increment_login_attempts()
+user1.increment_login_attempts()
+user1.increment_login_attempts()
+user1.increment_login_attempts()
+user1.increment_login_attempts()
+user1.increment_login_attempts()
+print(f'Login attempts for {user1.f_name}{user1.l_name}: {user1.login_attempts}')
+user1.reset_login_attempts()
+print(f'Login attempts for {user1.f_name}{user1.l_name} after reset: {user1.login_attempts}')
