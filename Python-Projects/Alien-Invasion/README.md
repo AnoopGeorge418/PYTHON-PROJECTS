@@ -1,5 +1,5 @@
 <div align=center margin= auto> 
-    ![Sample Output](https://raw.githubusercontent.com/AnoopGeorge418/Python-Projects/main/Python-Projects/Alien-Invasion/images/Sample_Output.png){:width="80%"}
+    https://github.com/AnoopGeorge418/Python-Projects/blob/main/Python-Projects/Alien-Invasion/images/Sample_Output.png
 </div>
 
 # 👽 Alien Invasion
